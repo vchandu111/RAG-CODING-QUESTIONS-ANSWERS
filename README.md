@@ -4,7 +4,7 @@ Answers with explanations and **Python code** for each question.
 
 ---
 
-## How to use this repo
+## How to use this repo - Step by Step
 
 - Questions are grouped into **Part-wise folders** (Part 1 through Part 5).
 - Inside each Part folder you'll find:
