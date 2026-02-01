@@ -83,5 +83,3 @@ pip install ragas                                 # evaluation (Q17)
 Use a virtual environment and add any other packages as needed per answer file.
 
 ---
-
-*Based on the [20 RAG Coding Interview Questions for 2026](https://www.youtube.com/watch?v=v9zpLVZU2Zw) carousel.*
