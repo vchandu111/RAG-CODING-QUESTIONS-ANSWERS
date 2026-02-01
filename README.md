@@ -2,6 +2,8 @@
 
 Coding answers with **explanations** and **Python examples** for common RAG (Retrieval-Augmented Generation) interview questions—from ingestion and retrieval to generation and advanced agentic flows.
 
+**Guide:** Each answer follows a basic structure (question → explanation → Python code). Use this as the structure to follow when answering in an interview. Run the code locally to verify it works.
+
 ---
 
 ## What’s in this repo
