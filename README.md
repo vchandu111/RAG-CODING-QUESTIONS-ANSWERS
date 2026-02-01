@@ -17,10 +17,10 @@ Use the tables below to jump to any question.
 
 | # | Question | Answer link |
 |---|----------|-------------|
-| 1 | Semantic chunking: split by similarity, not fixed length | [Answer](./Part-1-Data-Ingestion-Chunking/01-semantic-chunking-split-by-similarity-not-fixed-length.md) |
-| 2 | Extract and represent tables from PDF (searchable) | [Answer](./Part-1-Data-Ingestion-Chunking/02-extract-and-represent-tables-from-pdf-searchable.md) |
-| 3 | Recursive splitter: implement and why better than fixed-size? | [Answer](./Part-1-Data-Ingestion-Chunking/03-recursive-splitter-implement-and-why-better-than-fixed-size.md) |
-| 4 | Append parent doc IDs and summary tags to chunks | [Answer](./Part-1-Data-Ingestion-Chunking/04-append-parent-doc-ids-and-summary-tags-to-chunks.md) |
+| 1 | Semantic chunking: split by similarity, not fixed length | [Link](./Part-1-Data-Ingestion-Chunking/01-semantic-chunking-split-by-similarity-not-fixed-length.md) |
+| 2 | Extract and represent tables from PDF (searchable) | [Link](./Part-1-Data-Ingestion-Chunking/02-extract-and-represent-tables-from-pdf-searchable.md) |
+| 3 | Recursive splitter: implement and why better than fixed-size? | [Link](./Part-1-Data-Ingestion-Chunking/03-recursive-splitter-implement-and-why-better-than-fixed-size.md) |
+| 4 | Append parent doc IDs and summary tags to chunks | [Link](./Part-1-Data-Ingestion-Chunking/04-append-parent-doc-ids-and-summary-tags-to-chunks.md) |
 
 ---
 
@@ -28,11 +28,11 @@ Use the tables below to jump to any question.
 
 | # | Question | Answer link |
 |---|----------|-------------|
-| 5 | Combine BM25 and vector search with RRF | [Answer](./Part-2-Retrieval-Vector-Databases/05-combine-bm25-and-vector-search-with-rrf.md) |
-| 6 | Rerank with Cross-Encoder ("Lost in the Middle") | [Answer](./Part-2-Retrieval-Vector-Databases/06-rerank-with-cross-encoder-lost-in-the-middle.md) |
-| 7 | Query expansion: LLM generates 3 variations | [Answer](./Part-2-Retrieval-Vector-Databases/07-query-expansion-llm-generates-3-variations.md) |
-| 8 | Metadata filtering for "read" permissions | [Answer](./Part-2-Retrieval-Vector-Databases/08-metadata-filtering-for-read-permissions.md) |
-| 9 | Benchmark two embedding models | [Answer](./Part-2-Retrieval-Vector-Databases/09-benchmark-two-embedding-models.md) |
+| 5 | Combine BM25 and vector search with RRF | [Link](./Part-2-Retrieval-Vector-Databases/05-combine-bm25-and-vector-search-with-rrf.md) |
+| 6 | Rerank with Cross-Encoder ("Lost in the Middle") | [Link](./Part-2-Retrieval-Vector-Databases/06-rerank-with-cross-encoder-lost-in-the-middle.md) |
+| 7 | Query expansion: LLM generates 3 variations | [Link](./Part-2-Retrieval-Vector-Databases/07-query-expansion-llm-generates-3-variations.md) |
+| 8 | Metadata filtering for "read" permissions | [Link](./Part-2-Retrieval-Vector-Databases/08-metadata-filtering-for-read-permissions.md) |
+| 9 | Benchmark two embedding models | [Link](./Part-2-Retrieval-Vector-Databases/09-benchmark-two-embedding-models.md) |
 
 ---
 
@@ -40,10 +40,10 @@ Use the tables below to jump to any question.
 
 | # | Question | Answer link |
 |---|----------|-------------|
-| 10 | System prompt: no internal knowledge without context | [Answer](./Part-3-Generation-Prompting/10-system-prompt-no-internal-knowledge-without-context.md) |
-| 11 | Return answer + source IDs and snippets (citations) | [Answer](./Part-3-Generation-Prompting/11-return-answer-plus-source-ids-and-snippets.md) |
-| 12 | Summarize retrieved docs before the generator | [Answer](./Part-3-Generation-Prompting/12-summarize-retrieved-docs-before-generator.md) |
-| 13 | Fallback when retriever returns low similarity | [Answer](./Part-3-Generation-Prompting/13-fallback-when-retriever-returns-low-similarity.md) |
+| 10 | System prompt: no internal knowledge without context | [Link](./Part-3-Generation-Prompting/10-system-prompt-no-internal-knowledge-without-context.md) |
+| 11 | Return answer + source IDs and snippets (citations) | [Link](./Part-3-Generation-Prompting/11-return-answer-plus-source-ids-and-snippets.md) |
+| 12 | Summarize retrieved docs before the generator | [Link](./Part-3-Generation-Prompting/12-summarize-retrieved-docs-before-generator.md) |
+| 13 | Fallback when retriever returns low similarity | [Link](./Part-3-Generation-Prompting/13-fallback-when-retriever-returns-low-similarity.md) |
 
 ---
 
@@ -51,9 +51,9 @@ Use the tables below to jump to any question.
 
 | # | Question | Answer link |
 |---|----------|-------------|
-| 14 | Agent critiques retrieval and re-searches if insufficient | [Answer](./Part-4-Advanced-Agentic-RAG/14-agent-critiques-retrieval-and-re-searches-if-insufficient.md) |
-| 15 | Multi-hop retrieval: "CEO of company that acquired Figma?" | [Answer](./Part-4-Advanced-Agentic-RAG/15-multi-hop-retrieval-ceo-of-company-that-acquired-figma.md) |
-| 16 | Router: summarization vs factual Q&A indexes | [Answer](./Part-4-Advanced-Agentic-RAG/16-router-summarization-vs-factual-qa-indexes.md) |
+| 14 | Agent critiques retrieval and re-searches if insufficient | [Link](./Part-4-Advanced-Agentic-RAG/14-agent-critiques-retrieval-and-re-searches-if-insufficient.md) |
+| 15 | Multi-hop retrieval: "CEO of company that acquired Figma?" | [Link](./Part-4-Advanced-Agentic-RAG/15-multi-hop-retrieval-ceo-of-company-that-acquired-figma.md) |
+| 16 | Router: summarization vs factual Q&A indexes | [Link](./Part-4-Advanced-Agentic-RAG/16-router-summarization-vs-factual-qa-indexes.md) |
 
 ---
 
